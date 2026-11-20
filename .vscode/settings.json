@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "python.defaultInterpreterPath": "${workspaceFolder}/apps/api/.venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "./apps/api"
+  ],
+  "python.venvPath": "${workspaceFolder}/apps/api",
+  "python.venvFolders": [".venv"]
+}

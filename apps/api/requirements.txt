@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+pypdf
+supabase
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
